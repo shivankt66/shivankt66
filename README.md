@@ -49,11 +49,12 @@
 
 ## 📌 Featured Projects  
 🔹 [Portfolio Website](https://shivanktyagi-portfolio.netlify.app/) – My personal portfolio built with React & TailwindCSS  
-🔹 Task Manager App – CRUD operations with authentication (JWT + MongoDB)  
+🔹 Task Manager App – CRUD operations with authentication (JWT + MongoDB), **automatically syncs across devices**  
 🔹 Blog Platform – Create & manage posts with Markdown support  
-🔹 E-Commerce App – Shopping cart, checkout & payment integration  
+🔹 Online Pizza Store – Order pizzas online with **payment gateway integration**  
 
 *(More projects coming soon...)*  
+ 
 
 ---
 
@@ -68,11 +69,11 @@
 
 ## 🌐 Connect With Me  
 📩 Email: **shivankt66@gmail.com**  
-🌐 Portfolio: [shivanktyagi-portfolio.netlify.app](https://shivanktyagi-portfolio.netlify.app/)  
-💼 LinkedIn: *[Add your LinkedIn link here]*  
+🌐 Portfolio: [Portfolio Liink](https://shivanktyagi-portfolio.netlify.app/)  
+💼 LinkedIn: [LinkedIn link](https://www.linkedin.com/in/shivank-tyagi-916216247/)*  
 
 ---
 
 <p align="center">
-  ⭐️ *“Code is like magic — the more you practice, the stronger it gets.”*  
+  ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”* 
 </p>
