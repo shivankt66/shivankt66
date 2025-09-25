@@ -49,7 +49,7 @@
 
 ## 📌 Featured Projects  
 🔹 [Portfolio Website](https://shivanktyagi-portfolio.netlify.app/) – My personal portfolio built with React & TailwindCSS  
-🔹 [Imagify](https://imagify-three-phi.vercel.app/) - AI Image Generator SaaS – Generate unique, high-quality images from text prompts
+🔹 [Imagify](https://imagify-three-phi.vercel.app/) - AI Image Generator SaaS – Generate unique, high-quality images from text prompts  
 🔹 [Task Manager App](https://to-do-application-eight-topaz.vercel.app/) – CRUD operations with authentication (JWT + MongoDB), **automatically syncs across devices**  
 🔹 Online Pizza Store – Order pizzas online with **payment gateway integration**  
 
